@@ -1,6 +1,6 @@
 # MedRecSys
 🌟 Introducing MedRecSys: Your Personalized Medicine Recommendation System 🌟
-(https://github.com/tinugh/Medicine_Recommendation_System/assets/132256255/efb7f371-186e-4431-9dc8-96810a07ab61)
+![ezgif com-resize](https://github.com/ABHAY1937/MedRecSys/assets/130343822/56fb8d70-6679-4be1-a14d-60053b607010)
 
 Discover the future of healthcare with MedRecSys! 🚀🔬 Our revolutionary system, powered by advanced LSTM technology, is here to redefine medical decision-making. Imagine a world where patient symptoms are instantly decoded, underlying causes are pinpointed, and precise medicine recommendations are provided with an astounding 88% accuracy.
 
